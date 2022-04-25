@@ -1,4 +1,4 @@
-OBS: O README está em desenvolvimento ainda não está completo.
+OBS: O README está em desenvolvimento e ainda não está completo.
 
 
 ## Ola! Eu me chamo Nícolas 👋
