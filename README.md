@@ -23,7 +23,3 @@ Desta forma, estou estudando, praticando, experimentando e criando novos algorit
     <img align="center" alt="fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
     <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div><br/>
-
-## Github Status
-![NicolasYK GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasYK&theme=transparent&show_icons=true&hide_border=true&line_height=27)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasYK&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
